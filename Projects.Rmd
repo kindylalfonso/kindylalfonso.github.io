@@ -46,7 +46,7 @@ In this project, we focused on classifying the binary variable RainTomorrow (*wh
 
 **Skills**: Machine Learning Models (Logistic Regression, K-Nearest Neighbors, Random Forest, Bagging, XGBoost, Support Vector Machines), Model Evaluation (Confusion Matrices, Testing Error Rates, AUC)
 
-[Click here for code](rainfall_in_australia.html)
+[Click here for code](StatisticalAnalysis.pdf)
 
 ## Movie Data Web Scraping
 

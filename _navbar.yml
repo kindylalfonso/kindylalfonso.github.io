@@ -3,7 +3,7 @@ title: "Kindyl Alfonso"
 type: inverse
 left:
   - text: "Course Projects"
-    href: ./projects.html
+    href: ./Projects.html
   - text: "Resume"
     href: ./resume.html
   - text: "About Me"

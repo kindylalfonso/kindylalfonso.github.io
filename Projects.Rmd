@@ -1,0 +1,57 @@
+---
+title: "Projects"
+output: html_document
+runtime: shiny
+---
+## Airbnb High Booking Rates
+
+  Received Airbnb dataset with 95 columns of data which was cleaned and reduced to a usable format for various uses including text analysis and building statistical models.
+
+  Part I: Competing versus classmates on Kaggle to build the most accurate statistical model to predict the binary variable of whether a property would be high performing (high_booking) *Model accuracy determined using Area Under the Curve (AUC) metric*. 
+
+  Part II: Researched the New Orleans market to build a model to provide insights into why certain properties are high booking within that specific market. Our team used 3 real Airbnb listings to pitch as a likely high booked property. 
+
+**Programs:** RStudio
+
+**Skills:** ETL, Exploratory Data Analysis, Data Visualization, Machine Learning
+
+## Cyberbullying Tweet Analysis
+
+This project involved analyzing and classifying Twitter tweets to detect instances of cyberbullying. The dataset was processed for text analysis, including cleaning and feature engineering. We conducted a brief Exploratory Data Analysis (EDA) before transitioning to text preprocessing in preparation for building and evaluating various machine learning models.
+
+**Programs:** R Studio (*tidyverse, dplyr, tidytext, topicmodels, caret, randomForest*)
+
+**Skills:** Text Mining and Natural Language Processing (NLP), Topic Modeling and Dimension Reduction (*Latent Dirichlet Allocation*) and Machine Learning Model Development with Unstructured Data
+
+## Optimal Stock Portfolio
+
+This project focused on the task of optimizing a portfolio of 20 stocks using various weighting techniques such as Sharpe Ratio, minimum variance, and equal weights.Our goal was to outperform the S&P 500. 
+
+**Programs**: MS Excel, Excel Solver
+
+**Skills**: Non-Linear Optimization, Financial Modelling
+
+## Time Series Using Stochastic Volatility
+
+This project tasked us to research a time series model that was not covered in class and apply it to real world data. We chose stochastic volatility within the state space framework, a relatively active area of research. Using NVDA stock data, we implemented the model to predict future stock prices, leveraging stochastic volatility to capture the dynamic nature of financial markets.
+**Programs**: RStudio
+
+**Skills**: Time Series Visualization, Financial Modelling, Stochastic Volatility Analysis, Predictive Analytics
+
+## Rainfall in Australia
+
+In this project, we focused on classifying the binary variable RainTomorrow (*whether it will rain the next day*) using a variety of predictors. The machine learning models applied included logistic regression, K-Nearest Neighbors (KNN), decision tree-based methods (*Random Forest, Bagging, XGBoost*), and Support Vector Machines (SVM). Model performance was evaluated using key metrics such as confusion matrices, testing error rates, and Area Under the Curve (AUC).
+
+**Programs**: RStudio
+
+**Skills**: Machine Learning Models (Logistic Regression, K-Nearest Neighbors, Random Forest, Bagging, XGBoost, Support Vector Machines), Model Evaluation (Confusion Matrices, Testing Error Rates, AUC)
+
+[Click here for code](rainfall_in_australia.html)
+
+## Movie Data Web Scraping
+
+This project required us to use Python to scrape data from IMDB and transform into usable dataset. We then answered and communicated a set of questions asked by our professor using various charts. 
+
+**Programs**: Python (*Beautiful Soup, Pandas, NumPy, Matplotlib, Seaborn*)
+
+**Skills**: Data Visualization, Web-Scraping, Data Cleaning, Exploratory Data Analysis, Charting and Storytelling
